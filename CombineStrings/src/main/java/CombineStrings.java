@@ -10,5 +10,5 @@ public class CombineStrings {
     public String combine(String a, String b){
        String total = a + b;
         return total;
-         }   
+    }   
 }
