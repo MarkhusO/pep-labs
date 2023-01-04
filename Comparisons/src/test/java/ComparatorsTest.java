@@ -20,6 +20,7 @@ public class ComparatorsTest {
         boolean expected = true;
         boolean actual = c.isEqual(a, b);
         Assert.assertEquals(expected, actual);
+        System.out.println(true);
     }
 
     /**
